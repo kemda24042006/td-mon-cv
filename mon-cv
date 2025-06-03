@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>MON CV</title>
+        <link rel="stylesheet" href="style2.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    </head>
+    <body>
+        <div class="CV-container">
+            <div class="images-container">
+                <img src="face.jpg" alt="">
+                <h1>Mon curriculum vitae</h1>
+            </div> 
+            <div class="info">
+                <ul>
+                    <li> <strong>NOM:</strong><br> kANDA NGUIMATIO ANGE</li>
+                    <li> <strong>date de naissance:</strong><br> 24-04-2006</li>
+                    <li> <strong>MATRICULE:</strong><br> 24S98540</li>
+                    <li> <strong>profession:</strong><br> ETUDIANTE</li>
+                    <li><i class="fas fa-map-marKer-alt"></i><strong>Adresse:</strong><br> DOUALA;CAMEROUN</li>
+                    <li><i class="fas fa-phone"></i><strong>Tel:</strong><br> 659121693</li>
+                    <li><i class="fas fa-envelope"></i><strong>Email:</strong><br>Kemdadanielle@gmail.com</li>  
 
+                </ul>
+            </div>
+            <div class="section">
+                <h2 class="section-title">PARCOURS SCOLAIRE</h2>
+                <ol>
+                    <li>CEP session 2017:groupe SCOLAIRE les OISILLONS</li><br>
+                    <li> BEPC session 2021:LYBILOG 2</li><br>
+                    <li> PROBATOIRE D session 2024:LYBILOG 2</li><br>
+                    <li> BACC D:LYBILOG 2</li><br>
+                </ol>
+                <p>je suis presentement à l'université de DOUALA</p>
+            </div>
+            <div class="section">
+                <h2 class="section-title">FORMATION</h2>
+                <p><li><strong>ETUDIANTE EN INFORMATIQUE à l' UD</strong></li></p>
+                <p><li><strong>STAGERE EN COIFFURE CENTRE DE FORMATION</strong></li></p>
+            </div>
+            <div class="section">
+                <h2 class="section-title">LANGUE</h2>
+                <ul>
+                    <li>français </li>
+                    <li>anglais</li>
+                    <li>un peu d'allemand</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h2 class="section-title">COMPETENCES</h2>
+                <ul>
+                    <li>HTML:programmation web</li><br>
+                    <li> Excel:programmation VBA</li><br>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
